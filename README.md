@@ -1,5 +1,5 @@
 # Personal Equity Trade P&L Review
-
+Created by riju
 A structured Excel workbook that breaks down 13 of my selected equity trades into real numbers, stories, and lessons.
 
 ## At a Glance
